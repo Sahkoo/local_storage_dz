@@ -1,0 +1,32 @@
+.tasks {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 20px;
+    background: #55ff00;
+}
+
+.user_form {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background: #d0ff00;
+}
+
+.url {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    background: #1900ff;
+}
